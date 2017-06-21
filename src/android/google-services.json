@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "981778360296",
+    "firebase_url": "https://jdispatch-1198.firebaseio.com",
+    "project_id": "jdispatch-1198",
+    "storage_bucket": "jdispatch-1198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981778360296:android:1d03d94def25a7bd",
+        "android_client_info": {
+          "package_name": "org.ams.jdispatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981778360296-vj4eqtcje2e9dsnqghlf9bipg11g6j45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVNiL6BHUqXzCoCpudZEKhLDzUygO4sjI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
